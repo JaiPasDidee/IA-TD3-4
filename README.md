@@ -1,10 +1,24 @@
-# Ingénierie Dirigée par les Modèles - HAI919I
+<h1 align="center"> Compte-rendu TD3 et TD4 - HAI919I</h1>
 
-## Compte-rendu du devoir noté du 15 novembre 2021 pour l'UE HAI919I
+<hr>
+<p align="center">LAURET Nicolas, n°22002804</p>
+<p align="center">PIRES Andréa, n°22015343</p>
+<hr>
 
-Binôme :
-- LAURET Nicolas
-- PIRES Andréa
+### Sommaire
+  <ul>
+    <li><a href="https://github.com/JaiPasDidee/IDM-TD3-4#td-3">TD 3</a></li>
+    <ul>
+      <li><a href="https://github.com/JaiPasDidee/IDM-TD3-4#question-1-">Question 1</a></li>
+      <li><a href="https://github.com/JaiPasDidee/IDM-TD3-4#question-2-">Question 2</a></li>
+    </ul>
+    <li><a href="https://github.com/JaiPasDidee/IDM-TD3-4#td-4">TD 4</a></li>
+    <ul>
+      <li><a href="https://github.com/JaiPasDidee/IDM-TD3-4#question-1--1">Question 1</a></li>
+      <li><a href="https://github.com/JaiPasDidee/IDM-TD3-4#question-2--1">Question 2</a></li>
+    </ul>
+  </ul>
+
 
 ## TD 3
 ### Question 1 :
